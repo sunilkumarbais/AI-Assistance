@@ -26,5 +26,5 @@ Contributions are welcome! Follow these steps:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any inquiries, contact [Sunil Kumar Bais]([mailto:sunilkumarbais@example.com](https://www.instagram.com/coding_with_sunil/)).
+For any inquiries, contact [Sunil Kumar Bais](https://www.instagram.com/coding_with_sunil/).
 
